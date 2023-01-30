@@ -35,7 +35,7 @@ while opcao!=3:
     if opcao==1:
       print("Exit")
       break  
-
+      
   else:
     print("Opção inválida")
     break
